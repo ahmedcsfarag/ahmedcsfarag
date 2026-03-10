@@ -2,9 +2,9 @@
 
 ## 📊 Data Analyst
 
-I am a Data Analyst with a background in Management Information Systems. I am passionate about turning raw data into meaningful insights that help businesses make better decisions.
+I am a Data Analyst with a background in Management Information Systems. I am passionate about transforming raw data into meaningful insights that help businesses make better decisions.
 
-Currently, I am developing my analytical skills through the Digital Egypt Pioneers Initiative (DEPI) and continuous learning on DataCamp. My goal is to become a professional Data Analyst capable of solving real-world problems using data.
+Currently, I am developing my analytical skills through the Digital Egypt Pioneers Initiative (DEPI) and continuous training with IBSRA. My goal is to become a professional Data Analyst capable of solving real-world problems using data.
 
 ## 🚀 What I Do
 - Data Cleaning and Data Preparation
@@ -25,7 +25,7 @@ Currently, I am developing my analytical skills through the Digital Egypt Pionee
 ## 📚 Background
 - Graduate of Management Information Systems (2025)
 - Data Analysis Trainee at the Digital Egypt Pioneers Initiative (DEPI)
-- Continuous learning through DataCamp
+- Continuous learning through IBSRA
 
 ## 🎯 Current Goals
 - Building real-world data analysis projects
